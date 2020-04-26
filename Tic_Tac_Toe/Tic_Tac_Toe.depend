@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587905427 source:d:\c_practice\tic_tac_toe\main.cpp
+	<iostream>
+	<cstdlib>
+
